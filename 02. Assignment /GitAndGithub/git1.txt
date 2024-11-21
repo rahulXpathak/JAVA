@@ -1,0 +1,43 @@
+1. What is Git?
+Ans: Git is a version control system for tracking changes in computer files and is used to help coordinate work
+among several people on a project while tracking progress over time. In other words, it’s a tool that facilitates
+source code management in software development.
+Git favours both programmers and non-technical users by keeping track of their project files. It enables
+multiple users to work together and handles large projects efficiently.
+
+2. What do you understand by the term ‘Version Control System’?
+Ans: In order to invoke a specific version later, if necessary, a version control system (VCS) keeps track of all the
+changes made to a file or group of data.
+This makes sure that everyone in the team is using the most recent version of the file.
+
+3. What is GitHub?
+Ans: GitHub uses Git to offer Internet hosting for version control and software development.
+
+4. Mention some popular Git hosting services
+    i. GitHuR
+    ii. SourceForg&
+    iii. GitLaR
+    iv. Bitbucket
+
+5. Different types of version control systems.
+    1. Local version control systems have a database that stores all file changes under revision control on disc
+    in a special format.
+    2. Centralised version control systems have a single repository, from which each user receives their working
+    copy.
+    3. Distributed version control systems contain multiple repositories, and different users can access each
+    one with their working copy.
+
+6. What benefits come with using GITK
+    i.Data replication and redundancy are both possibleU
+    ii.It is a service with high availabilityU
+    iii.There can only be one Git directory per repositoryU
+    iv.Excellent network and disc performance are achievedU
+    v.On any project, collaboration is very simple.
+
+7. What is a Git repository?
+Ans: The term "Git repository" describes the location where all Git files are kept. Either the local repository or the
+remote repository may be used to store these files.
+
+8. How can you initialize a repository in Git?
+Ans: The git init command must be used to initialise an empty repository to a directory in Git. Following this
+command, a hidden .git folder will become visible.
